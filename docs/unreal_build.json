@@ -1,0 +1,39 @@
+{
+  "engine": "5.8.1-56057345+++UE5+Release-5.8",
+  "build_seconds": 4.291773499999977,
+  "map": "/Game/FluidWorld/Maps/L_AbyssalGarden",
+  "sequence": "/Game/FluidWorld/Cinematics/LS_V1_Descent",
+  "unique_meshes": 22,
+  "placements": 2141,
+  "instance_groups": {
+    "SM_Seafloor": 1,
+    "SM_Basalt_00": 30,
+    "SM_Basalt_01": 40,
+    "SM_Basalt_02": 27,
+    "SM_Basalt_03": 36,
+    "SM_RelicArc_0": 1,
+    "SM_RelicSeam_0": 1,
+    "SM_RelicArc_1": 1,
+    "SM_RelicSeam_1": 1,
+    "SM_RelicArc_2": 1,
+    "SM_RelicSeam_2": 1,
+    "SM_RelicSpine": 1,
+    "SM_CoreOrbit_0": 1,
+    "SM_CoreOrbit_1": 1,
+    "SM_CoreOrbit_2": 1,
+    "SM_SeaFan": 60,
+    "SM_CoralBranch_01": 186,
+    "SM_CoralBranch_02": 7,
+    "SM_RibbonKelp": 101,
+    "SM_TrumpetCoral": 143,
+    "SM_SuspendedMote": 1500
+  },
+  "calibration_cm": [
+    299.9999542236328,
+    -500.00001525878906,
+    700.0
+  ],
+  "collision": "Complex-as-simple on terrain, basalt and relic arcs; decorative flora has no collision.",
+  "navigation": "Play-in-Editor passed: DefaultPawn movement and blocking floor trace. See unreal_validation.json.",
+  "visual_validation": "Corrected Unreal entrance screenshot inspected; independent engine lighting and material translation."
+}

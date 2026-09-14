@@ -1,0 +1,10 @@
+{
+  "blender": "5.1.2",
+  "build_seconds": 0.8010519999661483,
+  "objects": 197,
+  "mesh_datablocks": 33,
+  "geometry_node_groups": 5,
+  "frames": 720,
+  "fps": 24,
+  "seed": 1209
+}

@@ -1,0 +1,658 @@
+{
+  "camera_route": [
+    {
+      "frame": 1,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 13,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 25,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 37,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 49,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 61,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 73,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 85,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 97,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 109,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 121,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 133,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 145,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 157,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 169,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 181,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 193,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 205,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 217,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 229,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 241,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 253,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 265,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 277,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 289,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 301,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 313,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 325,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 337,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 349,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 361,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 373,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 385,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 397,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 409,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 421,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 433,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 445,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 457,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 469,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 481,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 493,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 505,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 517,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 529,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 541,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 553,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 565,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 577,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 589,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 601,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 613,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 625,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 637,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 649,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 661,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 673,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 685,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 697,
+      "clearance_1m": true,
+      "near": []
+    },
+    {
+      "frame": 709,
+      "clearance_1m": true,
+      "near": []
+    }
+  ],
+  "central_navigation_route": [
+    {
+      "position": [
+        0.0,
+        -28.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        -26.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        -24.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        -22.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        -20.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        -18.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        -16.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        -14.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        -12.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        -10.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        -8.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        -6.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        -4.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        -2.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        0.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        2.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        4.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        6.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        8.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        10.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        12.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        14.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        16.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        18.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        20.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        22.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        24.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        26.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        28.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        30.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        32.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        34.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        36.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        38.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        40.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        42.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        44.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        46.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    },
+    {
+      "position": [
+        0.0,
+        48.0,
+        3.0
+      ],
+      "clearance_0_5m": true,
+      "near": []
+    }
+  ],
+  "scope": "Nearest-surface samples only; not a complete swept-volume or Unreal gameplay test."
+}

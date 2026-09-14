@@ -1,0 +1,17 @@
+{
+  "screenshot": "Unreal_V1_Entrance.png",
+  "pawn_class": "DefaultPawn",
+  "start_cm": [
+    -300.0,
+    3000.0,
+    800.0
+  ],
+  "movement_distance_cm": 3382.856911354502,
+  "end_cm": [
+    -300.0,
+    -382.8569113545018,
+    800.0
+  ],
+  "floor_trace_hit": true,
+  "status": "passed"
+}

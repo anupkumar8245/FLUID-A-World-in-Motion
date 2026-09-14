@@ -1,0 +1,10 @@
+{
+  "seconds": 6.43853509996552,
+  "samples": 64,
+  "resolution": [
+    1440,
+    810
+  ],
+  "frame": 1,
+  "device": "GPU"
+}

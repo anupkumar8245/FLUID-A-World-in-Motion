@@ -1,0 +1,90 @@
+{
+  "M_Basalt": {
+    "color": [
+      0.1,
+      0.16,
+      0.18
+    ],
+    "roughness": 0.84,
+    "emission": 0,
+    "metallic": 0.0,
+    "texture": "T_Basalt_BaseColor"
+  },
+  "M_Sediment": {
+    "color": [
+      0.16,
+      0.24,
+      0.25
+    ],
+    "roughness": 0.93,
+    "emission": 0,
+    "metallic": 0.0,
+    "texture": "T_Sediment_BaseColor"
+  },
+  "M_OrganicDark": {
+    "color": [
+      0.018,
+      0.09,
+      0.085
+    ],
+    "roughness": 0.5,
+    "emission": 0,
+    "metallic": 0.0,
+    "texture": null
+  },
+  "M_FanCopper": {
+    "color": [
+      0.24,
+      0.065,
+      0.028
+    ],
+    "roughness": 0.55,
+    "emission": 0,
+    "metallic": 0.0,
+    "texture": null
+  },
+  "M_BiolumeCyan": {
+    "color": [
+      0.012,
+      0.65,
+      0.42
+    ],
+    "roughness": 0.32,
+    "emission": 1.5,
+    "metallic": 0.0,
+    "texture": null
+  },
+  "M_BiolumeBlue": {
+    "color": [
+      0.025,
+      0.25,
+      1
+    ],
+    "roughness": 0.35,
+    "emission": 2.4,
+    "metallic": 0.0,
+    "texture": null
+  },
+  "M_BiolumeAmber": {
+    "color": [
+      1,
+      0.22,
+      0.015
+    ],
+    "roughness": 0.38,
+    "emission": 2.1,
+    "metallic": 0.0,
+    "texture": null
+  },
+  "M_AncientCeramic": {
+    "color": [
+      0.17,
+      0.26,
+      0.24
+    ],
+    "roughness": 0.48,
+    "emission": 0,
+    "metallic": 0.22,
+    "texture": "T_Basalt_BaseColor"
+  }
+}

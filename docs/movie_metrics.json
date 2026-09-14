@@ -1,0 +1,14 @@
+{
+  "seconds_this_run": 595.2109492999999,
+  "reused_frames": 96,
+  "rendered_this_run": 264,
+  "resolution": [
+    960,
+    540
+  ],
+  "samples": 16,
+  "fps": 12,
+  "frames": 360,
+  "duration_seconds": 30,
+  "note": "Review movie sampled from the 24fps source camera animation; timing excludes work before the power cut."
+}
