@@ -34,3 +34,6 @@ Desktop.ini
 .DS_Store
 .idea/
 .vscode/
+
+#Internal documents for references
+internal-documents/
